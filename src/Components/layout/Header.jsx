@@ -101,7 +101,7 @@ const Header = () => {
                     >
                       {item.name}
                       {(openSubMenuId === item.id && index < 2) && item.subMenu && (
-                        <ul className="absolute left-0 mt-2 py-3 w-[182px] bg-[#FBFBFD] shadow-md  top-[30px]">
+                        <ul className="absolute left-0 mt-2 py-3 w-[182px] bg-[#FBFBFD] shadow-md  top-[30px] z-[99]">
                           {item.subMenu.map((subItem) => (
                             <li key={subItem.id} className="px-4 py-2">
                               {subItem.name}

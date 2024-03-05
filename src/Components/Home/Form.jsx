@@ -8,7 +8,7 @@ export const Form = () => {
     };
 
     return (
-        <div className="md:fixed top-[100px] right-[50px] w-full md:w-[440px]">
+        <div className="md:absolute top-[-34px] right-[48px]   w-full md:w-[440px]">
             <div className='max-w-full md:max-w-[440px] bg-white '>
                 <div className="" style={{ boxShadow: '0 12px 28px #64666b' }}>
                     {/* Tab Buttons */}
