@@ -17,3 +17,17 @@ body {
 ::-webkit-scrollbar {
     width: 0px; /* You can adjust the width to your preference */
   }
+
+  
+.bg-download {
+    background-image: url("../src/assets/Hero/hero-bg.svg");
+    background-color: black;
+    background-position: 100% 50%;
+    background-size: auto;
+    background-repeat: no-repeat;
+  }
+  
+  .btn-gradient {
+    color: #fbfbfd;
+    background: linear-gradient(95.14deg, #e52c43, #ff6c00 91.74%);
+  }
