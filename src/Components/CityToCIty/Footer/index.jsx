@@ -87,7 +87,7 @@ const Footer = () => {
               </a>
             </span>
           </div>
-          <div className="flex space-x-2 pb-4 border-b-[1px] border-solid border-[#313338]">
+          {/* <div className="flex space-x-2 pb-4 border-b-[1px] border-solid border-[#313338]">
             <img
               src={downloadFromApple}
               alt="download from apple"
@@ -98,7 +98,7 @@ const Footer = () => {
               alt="download from google"
               className="w-[119px] h-[34px] object-cover rounded-md border-[1px] border-solid border-white self-end"
             />
-          </div>
+          </div> */}
         </div>
         {/*  bottom footer */}
         <div className="flex flex-col space-y-2 ">

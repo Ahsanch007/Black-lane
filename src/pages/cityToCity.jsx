@@ -14,12 +14,12 @@ const CityToCity = () => {
     <div>
         <Navbar />
         <Hero />
-        <Download />
+        {/* <Download /> */}
         <LongDistance />
         <Routes />
         <Faq />
         <Signature />
-        <SignatureDownload />
+        {/* <SignatureDownload /> */}
         <Footer />
     </div>
   )

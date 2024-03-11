@@ -37,7 +37,7 @@ export const Home = () => {
                     
                     <Form />
                     </div>
-             <Download />
+             {/* <Download /> */}
                 <div className="bg-[#FBFBFD]">
                     <div className="container mx-auto px-[16px]">
                         <div className="py-[64px]">
@@ -127,7 +127,7 @@ export const Home = () => {
                     </div>
                 </div>
                 <SignatureComponent />
-                <DownloadApp />
+                {/* <DownloadApp /> */}
                 <Footer />
                  
             </div>
