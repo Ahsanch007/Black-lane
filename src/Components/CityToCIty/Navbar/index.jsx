@@ -9,7 +9,7 @@ import { IoMdCloseCircle } from "react-icons/io";
 const services = [
   { name: "City to City rides", path: "/city-to-city" },
   // { name: "Chaffeur hailing", path: "#" },
-  { name: "Airport Transfers", path: "/airTransfer" },
+  { name: "Airport Transfers", path: "/airportTransfer" },
   { name: "Hourly hire", path: "/hourlyHire" },
   { name: "Chaffeur Service", path: "/choufferservices" },
   { name: "Limousine Service", path: "/limousineservices" },
